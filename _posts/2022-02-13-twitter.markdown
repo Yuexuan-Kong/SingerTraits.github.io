@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Some brand new stuff"
+date:   2022-02-12 14:34:25
+categories: mediator feature
+tags: regular
+image: /assets/article_images/introduction/bg.JPG
+---
+ 
+
+# What are the newest researches ?
+
+## MIRDATA 
+>Mirdata is an open-source Python library that provides tools for working with MIR datasets. The release includes a total of 26 dataset loaders + new documentation with tutorials and examples!
+
+Link to the library is [here](https://t.co/oINUQNbmLt).
+
+## SOUNDATA
+>Soundata is inspired by mirdata, which focus on non-musical audio datasets. This release can help researchers to download and process audio data more easily.
+
+Link to the twitter thread is [here](https://twitter.com/justin_salamon/status/1455682090217848833)
+
+
+## New paper from Spotify research about acoustic feature representations
+>They developed MUSIG, a multi-task formulation of graph representation learning to learn track representations based on both content features and structural graph neighborhoods. This is a new advancement in representations of acoustic features.
+
+Link to the twitter thread is [here](https://research.atspotify.com/multi-task-learning-of-graph-based-inductive-representations-of-music-content/)
+
+
+## New paper from Deezer about detection of explicit content
+>Instead of using a black-box ML method, they chose to use an explainable ML model, in order to be able to explain reasons behind why model gives certain judges.
+
+Link to the twitter thread is [here](https://deezer.io/detecting-explicit-content-in-songs-274967de7fd1)
+
+
+<!-- the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help]. -->
+
+<!-- {% highlight js %} -->
+
+<!-- <footer class="site-footer">
+ <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+  <div class="inner">a
+   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
+   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
+  </div>
+</footer>
+{% endhighlight %} -->
+
+
+<!-- [jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
+ -->
