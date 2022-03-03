@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: yuexuan.kong@ecl19.ec-lyon.fr
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/df-logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -22,8 +22,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: https://yuexuan-kong.github.io # the base hostname & protocol for your site
-baseurl: /singertraits.github.io/
+url: "https://yuexuan-kong.github.io" # the base hostname & protocol for your site
+baseurl: "/singertraits.github.io"
 #used to display twitter cards
 twitter_handle: '@YuexuanK'
 
